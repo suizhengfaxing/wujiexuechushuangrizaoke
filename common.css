@@ -15,7 +15,16 @@ body {
   font-size: 14px;
   background: #fff;
 }
-
+rt {
+  transform: scale(0.8,1);
+  font-size: 0.85em;
+  font-weight: 200;
+}
+.lyz rt {
+  transform: scale(0.8,1);
+  font-size: 0.85em;
+  font-weight: normal;
+}
 .container{
     padding:20px 10px 70px 10px!important;
 }
